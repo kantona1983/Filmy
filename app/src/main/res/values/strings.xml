@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Filmy</string>
+    <string name="original_title">Original title :</string>
+    <string name="overview">Overview :</string>
+    <string name="vote_average">Vote average :</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="relase_date">relase date :</string>
+</resources>
