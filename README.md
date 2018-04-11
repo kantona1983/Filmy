@@ -10,4 +10,8 @@ A simple Android app, that helps user to find popular movies. This is Project 1 
 * Material design
 * UI optimized for phone and tablet
 
+# Libraries 
+* [picasso](http://square.github.io/picasso/)
+
+
 
